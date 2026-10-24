@@ -26,3 +26,13 @@ Ctrl+C
 ## Research
 
 See RESEARCH.md (representative public scan).
+
+## Self-adaptation
+
+This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
+
+**Latest:** Enhance Local Music Explorer
+
+By integrating real-time concert and venue updates, improving user interface design for better navigation, and incorporating local community feedback, the Local Music Explorer can provide a more engaging and personalized music discovery experience.
+
+See `learning/LATEST.json` and `public/insights.json`.
