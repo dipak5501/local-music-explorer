@@ -1,0 +1,563 @@
+{
+  "scannedAt": "2026-10-24T16:00:19.223Z",
+  "disclaimer": "Representative scan of publicly accessible sources only. Not a crawl of the entire web. Sources that block or require login are skipped without bypass.",
+  "sources": [
+    {
+      "source": "hackernews",
+      "checkedAt": "2026-10-24T16:00:16.468Z",
+      "items": [
+        {
+          "source": "hackernews",
+          "id": "50222133",
+          "title": "FreeDNS",
+          "url": "https://freedns.afraid.org/",
+          "score": 24,
+          "comments": 2,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50192975",
+          "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+          "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+          "score": 48,
+          "comments": 6,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50218430",
+          "title": "OBS Studio 33",
+          "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+          "score": 333,
+          "comments": 108,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50219177",
+          "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+          "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+          "score": 143,
+          "comments": 70,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50217495",
+          "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+          "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+          "score": 416,
+          "comments": 141,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50212065",
+          "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+          "score": 1012,
+          "comments": 613,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50186450",
+          "title": "Physicists trap a single antimatter particle for a month",
+          "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+          "score": 174,
+          "comments": 58,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50219666",
+          "title": "I Don't Understand Quantum Physics (2018)",
+          "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+          "score": 190,
+          "comments": 134,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50211474",
+          "title": "Today, we hacked what we'd set out to hack: the iPhone",
+          "url": "https://blog.calif.io/p/iphone",
+          "score": 1006,
+          "comments": 632,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50181106",
+          "title": "Appreciating the beauty of all your body's scars and scratches",
+          "url": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
+          "score": 51,
+          "comments": 32,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50217500",
+          "title": "Twelve years of distributed SQLite",
+          "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+          "score": 299,
+          "comments": 44,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50219700",
+          "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+          "url": "https://github.com/Zagitta/gpu-unlock",
+          "score": 43,
+          "comments": 24,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50202285",
+          "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+          "url": "https://edjefferson.com/localwiki/",
+          "score": 1469,
+          "comments": 238,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50207910",
+          "title": "Apple Music 404 Not Found",
+          "url": "https://music.apple.com/this-url-doesnt-exist",
+          "score": 852,
+          "comments": 248,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50194536",
+          "title": "How to run a city builder on 16 MHz",
+          "url": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
+          "score": 61,
+          "comments": 16,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50218195",
+          "title": "How close can pure functional programming get to C?",
+          "url": "https://rtfeldman.com/fp-vs-c",
+          "score": 194,
+          "comments": 49,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50171379",
+          "title": "A practical guide to AI image generation, from diffusion to agents",
+          "url": "https://danielball.com/notes/ai_image_generation.html",
+          "score": 186,
+          "comments": 52,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50195535",
+          "title": "Parsing EDIFACT in Python with syntax trees",
+          "url": "https://github.com/AmadeusITGroup/Edison",
+          "score": 3,
+          "comments": 1,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50172962",
+          "title": "Bringing uv and ty together",
+          "url": "https://astral.sh/blog/uv-ty-integration",
+          "score": 228,
+          "comments": 73,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50220042",
+          "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+          "score": 23,
+          "comments": 4,
+          "type": "story"
+        }
+      ]
+    },
+    {
+      "source": "devto",
+      "checkedAt": "2026-10-24T16:00:16.522Z",
+      "items": [
+        {
+          "source": "devto",
+          "id": "4907044",
+          "title": "Dev Opportunity Radar #22: $50K Basis Fellowship, Perplexity AI Research Fellowship, and FC Barcelona Analytics Hackathon",
+          "url": "https://dev.to/devengers/dev-opportunity-radar-22-50k-basis-fellowship-perplexity-ai-research-fellowship-and-fc-4806",
+          "score": 66,
+          "tags": [
+            "discuss",
+            "community",
+            "opportunities",
+            "resources"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4908848",
+          "title": "Hours, Not Weeks: How AI Rewrote the Clock of Software Security",
+          "url": "https://dev.to/james_anderson_h/security-changed-with-ai-and-small-teams-are-falling-behind-5ebg",
+          "score": 21,
+          "tags": [
+            "security",
+            "ai",
+            "startup",
+            "discuss"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4909233",
+          "title": "Sloth Reads: an open model reads my read-later pile overnight, then reads me the good ones",
+          "url": "https://dev.to/sbis04/sloth-reads-an-open-model-reads-my-read-later-pile-overnight-then-reads-me-the-good-ones-3o14",
+          "score": 19,
+          "tags": [
+            "devchallenge",
+            "hf26challenge",
+            "ai",
+            "opensource"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4906514",
+          "title": "Breach Week Dropped 10 'Patch Now' Posts. A Local Gemma Boiled Them Down to 2 Lines, and Code Checked Every Number It Wrote.",
+          "url": "https://dev.to/t-rexbytes/breach-week-dropped-10-patch-now-posts-a-local-gemma-boiled-them-down-to-2-lines-and-code-53n6",
+          "score": 11,
+          "tags": [
+            "devchallenge",
+            "hf26challenge",
+            "temporal",
+            "security"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4908111",
+          "title": "PyTorch on TPU: Hands On With Colab",
+          "url": "https://dev.to/gde/pytorch-on-tpu-hands-on-with-colab-5b5g",
+          "score": 1,
+          "tags": [
+            "pytorch",
+            "tpu",
+            "gemma",
+            "googlecloud"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4906288",
+          "title": "Understanding What AI just Created in the 500mph Landscape",
+          "url": "https://dev.to/annavi11arrea1/understanding-what-ai-just-created-in-the-500mph-landscape-1m52",
+          "score": 4,
+          "tags": [
+            "beginners",
+            "tutorial",
+            "ai",
+            "webdev"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4908335",
+          "title": "I Built Mimu Because Even Taking Notes Is Too Much Work",
+          "url": "https://dev.to/sizzlebop/i-built-mimu-because-even-taking-notes-is-too-much-work-2dg",
+          "score": 13,
+          "tags": [
+            "devchallenge",
+            "hf26challenge",
+            "ai",
+            "opensource"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4908352",
+          "title": "'Baad mein' means later. Gemma reads the WhatsApp chat you keep with yourself, and tells you what you can forget",
+          "url": "https://dev.to/codeswithroh/baad-mein-means-later-gemma-reads-the-whatsapp-chat-you-keep-with-yourself-and-tells-you-what-3i45",
+          "score": 7,
+          "tags": [
+            "devchallenge",
+            "hf26challenge",
+            "gemma",
+            "opensource"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4908393",
+          "title": "Rent the Cores, Keep the Phone: Building LineageOS 24 on EC2 and Iterating at Home",
+          "url": "https://dev.to/aws-builders/rent-the-cores-keep-the-phone-building-lineageos-24-on-ec2-and-iterating-at-home-4pmc",
+          "score": 0,
+          "tags": [
+            "aws",
+            "android",
+            "lineageos",
+            "ec2"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4909760",
+          "title": "My AI Coding Workflow, v3",
+          "url": "https://dev.to/helderberto/my-ai-coding-workflow-v3-3c4c",
+          "score": 2,
+          "tags": [
+            "claudecode",
+            "ai",
+            "programming",
+            "development"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4908148",
+          "title": "“Bas do minute ka kaam hai”: I built VOX so 24 support tickets stop keeping me up",
+          "url": "https://dev.to/himanshu_748/bas-do-minute-ka-kaam-hai-i-built-vox-so-24-support-tickets-stop-keeping-me-up-34dd",
+          "score": 7,
+          "tags": [
+            "devchallenge",
+            "hf26challenge"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4910233",
+          "title": "Day 22 of Building Crowdwide: I Thought UI Polish Would Be Easy, BUT I WAS WRONGGGGG 😭",
+          "url": "https://dev.to/puneetkumar2010/day-22-of-building-crowdwide-i-thought-ui-polish-would-be-easy-but-i-was-wronggggg-27jk",
+          "score": 20,
+          "tags": [
+            "webdev",
+            "buildinpublic",
+            "opensource",
+            "discuss"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4909637",
+          "title": "Black October hit PHP, npm and PyPI. So I built a system that catches it in my app before I ship, with the fix ready",
+          "url": "https://dev.to/nirajkhetre/black-october-hit-php-npm-and-pypi-so-i-built-a-system-that-catches-it-in-my-app-before-i-ship-5gff",
+          "score": 16,
+          "tags": [
+            "devchallenge",
+            "hf26challenge",
+            "security",
+            "gemma"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4909647",
+          "title": "Humanizer has about 60,000 stars. On 12 public tasks my linter plugin scored 2.67 higher",
+          "url": "https://dev.to/efe_genc/humanizer-has-about-60000-stars-on-12-public-tasks-my-linter-plugin-scored-267-higher-2cdg",
+          "score": 6,
+          "tags": [
+            "ai",
+            "opensource",
+            "claude",
+            "writing"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4908158",
+          "title": "Gemma 4 on a 4 GB GPU in Plain PyTorch: From Out of Memory to Faster Than llama.cpp",
+          "url": "https://dev.to/gde/gemma-4-on-a-4-gb-gpu-in-plain-pytorch-from-out-of-memory-to-faster-than-llamacpp-31jb",
+          "score": 1,
+          "tags": [
+            "gemma",
+            "pytorch",
+            "cuda",
+            "quantization"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "github_search",
+      "checkedAt": "2026-10-24T16:00:17.345Z",
+      "items": [
+        {
+          "source": "github_search",
+          "id": "1423101235",
+          "title": "Gathin23/cleanyourtv",
+          "url": "https://github.com/Gathin23/cleanyourtv",
+          "score": 30599,
+          "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home."
+        },
+        {
+          "source": "github_search",
+          "id": "1421825221",
+          "title": "deepseek-ai/DeepInfer",
+          "url": "https://github.com/deepseek-ai/DeepInfer",
+          "score": 21669,
+          "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models"
+        },
+        {
+          "source": "github_search",
+          "id": "1423689866",
+          "title": "ly05010419/MacNativeGames",
+          "url": "https://github.com/ly05010419/MacNativeGames",
+          "score": 5145,
+          "description": ""
+        },
+        {
+          "source": "github_search",
+          "id": "1415313946",
+          "title": "jhaizhou-ops/d2r-mobile",
+          "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+          "score": 4536,
+          "description": "Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad, Mac, Android and HarmonyOS — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS / 安卓 / 鸿蒙兼容层"
+        },
+        {
+          "source": "github_search",
+          "id": "1426780056",
+          "title": "pengchujin/aerial-tv",
+          "url": "https://github.com/pengchujin/aerial-tv",
+          "score": 4283,
+          "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
+        },
+        {
+          "source": "github_search",
+          "id": "1426080579",
+          "title": "simbasjungles/free-my-tv",
+          "url": "https://github.com/simbasjungles/free-my-tv",
+          "score": 4164,
+          "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo."
+        },
+        {
+          "source": "github_search",
+          "id": "1417456983",
+          "title": "HeyPuter/everything",
+          "url": "https://github.com/HeyPuter/everything",
+          "score": 3806,
+          "description": "We're rebuilding and open-sourcing the world’s software from scratch."
+        },
+        {
+          "source": "github_search",
+          "id": "1414685342",
+          "title": "onehumanbeing/esp32-iphone-agent",
+          "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+          "score": 3757,
+          "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak."
+        },
+        {
+          "source": "github_search",
+          "id": "1416386910",
+          "title": "Arekejoker/qwen21-nsfw-pose-skill",
+          "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+          "score": 3699,
+          "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw"
+        },
+        {
+          "source": "github_search",
+          "id": "1424183124",
+          "title": "xiaoyang111222/cn-math-taxonomy",
+          "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+          "score": 3125,
+          "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
+        },
+        {
+          "source": "github_search",
+          "id": "1413898431",
+          "title": "liseami/CCBaga",
+          "url": "https://github.com/liseami/CCBaga",
+          "score": 2965,
+          "description": ""
+        },
+        {
+          "source": "github_search",
+          "id": "1416502082",
+          "title": "seedds/nxnative",
+          "url": "https://github.com/seedds/nxnative",
+          "score": 2826,
+          "description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)"
+        }
+      ]
+    },
+    {
+      "source": "osv_malware_feed",
+      "checkedAt": "2026-10-24T16:00:19.089Z",
+      "items": [
+        {
+          "source": "osv",
+          "id": "GHSA-3cv6-jpf6-8222",
+          "title": "GHSA-3cv6-jpf6-8222: LiteLLM: Authenticated SSRF and provider-credential exfiltration via unvalidated request-body routing parameters",
+          "url": "https://osv.dev/vulnerability/GHSA-3cv6-jpf6-8222",
+          "score": 1
+        },
+        {
+          "source": "osv",
+          "id": "GHSA-3xr8-qfvj-9p9j",
+          "title": "GHSA-3xr8-qfvj-9p9j: Arbitrary file deletion in litellm",
+          "url": "https://osv.dev/vulnerability/GHSA-3xr8-qfvj-9p9j",
+          "score": 1
+        },
+        {
+          "source": "osv",
+          "id": "GHSA-46cm-pfwv-cgf8",
+          "title": "GHSA-46cm-pfwv-cgf8: LiteLLM has Server-Side Template Injection vulnerability in /completions endpoint",
+          "url": "https://osv.dev/vulnerability/GHSA-46cm-pfwv-cgf8",
+          "score": 1
+        },
+        {
+          "source": "osv",
+          "id": "GHSA-4g5m-c9r5-49xf",
+          "title": "GHSA-4g5m-c9r5-49xf: LiteLLM: Local file read via request-supplied OIDC file references",
+          "url": "https://osv.dev/vulnerability/GHSA-4g5m-c9r5-49xf",
+          "score": 1
+        },
+        {
+          "source": "osv",
+          "id": "GHSA-4jcj-7x88-m979",
+          "title": "GHSA-4jcj-7x88-m979: LiteLLM: MCP Proxy Has Improper Authentication",
+          "url": "https://osv.dev/vulnerability/GHSA-4jcj-7x88-m979",
+          "score": 1
+        },
+        {
+          "source": "osv",
+          "id": "GHSA-4xpc-pv4p-pm3w",
+          "title": "GHSA-4xpc-pv4p-pm3w: LiteLLM: Authentication Bypass via Host Header Injection",
+          "url": "https://osv.dev/vulnerability/GHSA-4xpc-pv4p-pm3w",
+          "score": 1
+        },
+        {
+          "source": "osv",
+          "id": "GHSA-53gh-p8jc-7rg8",
+          "title": "GHSA-53gh-p8jc-7rg8: LiteLLM Vulnerable to Remote Code Execution (RCE)",
+          "url": "https://osv.dev/vulnerability/GHSA-53gh-p8jc-7rg8",
+          "score": 1
+        },
+        {
+          "source": "osv",
+          "id": "GHSA-53mr-6c8q-9789",
+          "title": "GHSA-53mr-6c8q-9789: LiteLLM: Privilege escalation via unrestricted proxy configuration endpoint",
+          "url": "https://osv.dev/vulnerability/GHSA-53mr-6c8q-9789",
+          "score": 1
+        }
+      ],
+      "note": "Representative OSV package query (litellm) plus news-linked supply-chain signals; not a full registry crawl."
+    },
+    {
+      "source": "reddit_programming",
+      "checkedAt": "2026-10-24T16:00:19.223Z",
+      "items": [],
+      "skipped": true,
+      "error": "HTTP 403 (respecting block; no bypass)"
+    }
+  ]
+}
