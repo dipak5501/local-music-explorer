@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Music Explorer
 
-Integrate real-time event updates and user reviews to provide a more engaging experience. Implement voice search for quick venue location, and utilize augmented reality to offer virtual previews of concert venues.
+Integrate real-time concert updates and venue information to provide a more dynamic user experience. Implement AI-driven recommendations based on user preferences and past events attended. Add interactive maps to help users find the closest venues easily.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
