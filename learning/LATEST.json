@@ -1,10 +1,10 @@
 {
-  "at": "2026-10-25T07:16:30.428Z",
-  "featureId": "web-learn-2026-10-25T07",
+  "at": "2026-10-25T10:17:57.802Z",
+  "featureId": "web-learn-2026-10-25T10",
   "slug": "local-music",
   "idea": {
     "headline": "Enhance Local Music Explorer",
-    "summary": "By integrating public trend signals, the Local Music Explorer can offer more accurate and timely event recommendations. This will help users discover local music venues and concerts more effectively.",
+    "summary": "Integrate real-time event updates and user reviews to improve the discovery experience, incorporate local music news and artist spotlights for a deeper connection with artists, and enhance venue details with interactive maps and directions.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 32604
+      "score": 33037
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/DeepInfer",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 22030
+      "score": 22116
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 5286
-    },
-    {
-      "source": "github_search",
-      "title": "jhaizhou-ops/d2r-mobile",
-      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "score": 4575
+      "score": 5320
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 4531
+      "score": 4662
+    },
+    {
+      "source": "github_search",
+      "title": "jhaizhou-ops/d2r-mobile",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "score": 4595
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 4361
-    },
-    {
-      "source": "github_search",
-      "title": "HeyPuter/everything",
-      "url": "https://github.com/HeyPuter/everything",
-      "score": 3843
+      "score": 4387
     },
     {
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 3795
+      "score": 4309
+    },
+    {
+      "source": "github_search",
+      "title": "HeyPuter/everything",
+      "url": "https://github.com/HeyPuter/everything",
+      "score": 3849
     },
     {
       "source": "github_search",
       "title": "Arekejoker/qwen21-nsfw-pose-skill",
       "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-      "score": 3710
+      "score": 3713
     },
     {
       "source": "github_search",
       "title": "xiaoyang111222/cn-math-taxonomy",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "score": 3405
+      "score": 3497
     },
     {
       "source": "github_search",
       "title": "seedds/nxnative",
       "url": "https://github.com/seedds/nxnative",
-      "score": 3289
+      "score": 3482
     },
     {
       "source": "github_search",
       "title": "Leonxlnx/earshot",
       "url": "https://github.com/Leonxlnx/earshot",
-      "score": 2657
+      "score": 2693
     }
   ]
 }
