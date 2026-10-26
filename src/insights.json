@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-26T13:33:09.563Z",
+  "updatedAt": "2026-10-26T16:01:32.706Z",
   "app": "Local Music Explorer",
-  "headline": "Enhance Local Music Explorer",
-  "summary": "Integrate real-time event updates and user-generated content to boost engagement, and leverage AI for personalized music venue recommendations.",
+  "headline": "Enhance Local Music Explorer with Public Trend Signals",
+  "summary": "By integrating public trend signals, the Local Music Explorer can offer more relevant and timely recommendations for local music venues, concerts, and events. This will help users discover new places to enjoy live music more easily.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 37757
+      "score": 38251
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/DeepInfer",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 22853
+      "score": 22917
     },
     {
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 8550
+      "score": 8887
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 5851
+      "score": 5970
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 5655
+      "score": 5696
     },
     {
       "source": "github_search",
       "title": "seedds/nxnative",
       "url": "https://github.com/seedds/nxnative",
-      "score": 5204
+      "score": 5481
     }
   ]
 }
