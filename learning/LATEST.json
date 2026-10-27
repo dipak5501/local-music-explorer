@@ -1,10 +1,10 @@
 {
-  "at": "2026-10-27T10:46:52.433Z",
-  "featureId": "web-learn-2026-10-27T10",
+  "at": "2026-10-27T13:49:02.102Z",
+  "featureId": "web-learn-2026-10-27T13",
   "slug": "local-music",
   "idea": {
-    "headline": "Enhance Local Music Explorer with Public Trend Signals",
-    "summary": "By integrating public trend signals, the Local Music Explorer can provide more relevant and timely information to users about local music venues, concerts, and events. This will enhance user engagement and satisfaction.",
+    "headline": "Enhance Local Music Explorer",
+    "summary": "Integrate real-time event updates and user reviews to improve the discovery experience, incorporate audio-based location services for better venue identification, and implement a recommendation system based on user preferences.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 40416
+      "score": 40755
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/DeepInfer",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 23261
+      "score": 23299
     },
     {
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 10582
+      "score": 10744
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 6500
+      "score": 6586
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 5927
+      "score": 5967
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 4905
+      "score": 4930
     },
     {
       "source": "github_search",
       "title": "xiaoyang111222/cn-math-taxonomy",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "score": 4159
+      "score": 4193
     },
     {
       "source": "github_search",
       "title": "JustAResearcher/gpu-unlock-ada",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "score": 4068
+      "score": 4126
     },
     {
       "source": "github_search",
       "title": "aicodeking/leanrea",
       "url": "https://github.com/aicodeking/leanrea",
-      "score": 3146
+      "score": 3170
     },
     {
       "source": "github_search",
       "title": "Leonxlnx/earshot",
       "url": "https://github.com/Leonxlnx/earshot",
-      "score": 2970
+      "score": 2993
     },
     {
       "source": "github_search",
       "title": "kingcharleslzy-ai/dsh-purge",
       "url": "https://github.com/kingcharleslzy-ai/dsh-purge",
-      "score": 2959
+      "score": 2990
     },
     {
       "source": "github_search",
-      "title": "JoasASantos/REA-Prompts",
-      "url": "https://github.com/JoasASantos/REA-Prompts",
-      "score": 2890
+      "title": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "score": 2939
     }
   ]
 }
