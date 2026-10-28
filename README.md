@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Music Explorer with Public Trend Signals
 
-By integrating user behavior analytics and real-time event data, Local Music Explorer can offer more personalized recommendations and up-to-date information on local music venues and events.
+By integrating public trend signals, the Local Music Explorer can offer more relevant and timely music venue recommendations. This will help users discover new concerts and events in their area more effectively.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
