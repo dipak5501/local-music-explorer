@@ -1,4 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { run } from "../src/logic.js";
-test("run returns text", () => { assert.equal(typeof run(), "string"); assert.ok(run().length > 10); });
+import { filterEvents } from "../src/logic.js";
+test("filter", () => {
+  assert.equal(filterEvents([{ title: "Jazz", venue: "Cafe", notes: "", tags: "" }], "jazz").length, 1);
+});
