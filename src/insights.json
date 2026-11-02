@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-02T15:58:04.429Z",
+  "updatedAt": "2026-11-02T17:00:55.569Z",
   "app": "Local Music Explorer",
-  "headline": "Enhance Local Music Explorer",
-  "summary": "By integrating public trend signals, the Local Music Explorer can offer more accurate and timely recommendations for local music venues and events. This will help users discover new favorites while enhancing their overall experience.",
+  "headline": "Enhance Local Music Explorer with Public Trend Signals",
+  "summary": "By integrating public trend signals, the Local Music Explorer can offer more accurate and timely recommendations for local music venues, concerts, and events. This will help users discover new favorites and stay updated on upcoming performances.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 12168
+      "score": 12339
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8985
+      "score": 8990
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 6488
+      "score": 6501
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5878
+      "score": 5883
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 5769
+      "score": 5857
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 5658
+      "score": 5720
     }
   ]
 }
