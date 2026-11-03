@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-03T01:10:32.690Z",
+  "updatedAt": "2026-11-03T04:14:13.475Z",
   "app": "Local Music Explorer",
-  "headline": "Enhance Local Music Explorer",
-  "summary": "Improve the user experience of Local Music Explorer by integrating real-time venue updates, adding a feature for personalized music recommendations based on location, and implementing a social sharing option to promote events among friends.",
+  "headline": "Enhance Local Music Explorer with Public Trend Signals",
+  "summary": "By integrating public trend signals, the Local Music Explorer can offer more accurate and relevant venue recommendations based on user preferences and real-time event data. This will significantly improve the user experience by providing timely updates and personalized suggestions.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 13215
+      "score": 14014
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 6551
+      "score": 6590
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 6281
-    },
-    {
-      "source": "github_search",
-      "title": "rddmwmddr/android-ad-cleaner",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5900
+      "score": 6457
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 5887
+      "score": 6111
+    },
+    {
+      "source": "github_search",
+      "title": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "score": 5939
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 5489
+      "score": 5555
     }
   ]
 }
