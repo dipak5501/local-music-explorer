@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Music Explorer with Public Trend Signals
 
-By integrating AI-driven event discovery and user engagement features, the Local Music Explorer can offer more personalized recommendations and interactive experiences for users exploring local music venues and events.
+By integrating AI-driven insights and event discovery, Local Music Explorer can offer users more personalized recommendations. Additionally, cleaning up ad clutter will improve the user experience.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
