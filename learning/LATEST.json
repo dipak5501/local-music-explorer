@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-06T06:00:26.761Z",
-  "featureId": "web-learn-2026-11-06T06",
+  "at": "2026-11-06T09:05:26.650Z",
+  "featureId": "web-learn-2026-11-06T09",
   "slug": "local-music",
   "idea": {
     "headline": "Enhance Local Music Explorer",
-    "summary": "Improve the Local Music Explorer by integrating real-time venue availability checks and personalized event recommendations based on user preferences, as well as adding a feature to share experiences directly via social media platforms.",
+    "summary": "Improve the user experience of Local Music Explorer by integrating real-time event updates and personalized recommendations based on user preferences, enhancing venue details with high-quality images and videos, and adding a feature to filter events by genre or artist popularity.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 19732
+      "score": 19902
     },
     {
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 15773
+      "score": 16224
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 11919
+      "score": 12209
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 10029
+      "score": 10198
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7207
+      "score": 7275
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 7139
+      "score": 7156
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 6601
+      "score": 6641
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 6129
+      "score": 6171
     },
     {
       "source": "github_search",
       "title": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
-      "score": 5370
+      "score": 5436
     },
     {
       "source": "github_search",
       "title": "valentderah/totk-pc-recomp",
       "url": "https://github.com/valentderah/totk-pc-recomp",
-      "score": 5212
+      "score": 5242
     },
     {
       "source": "github_search",
       "title": "Djihads80/Eglantine",
       "url": "https://github.com/Djihads80/Eglantine",
-      "score": 4531
+      "score": 4594
     },
     {
       "source": "github_search",
       "title": "interplains/Zero-Breach-Toolkit",
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "score": 4491
+      "score": 4492
     }
   ]
 }
