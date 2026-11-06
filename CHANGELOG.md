@@ -1907,3 +1907,21 @@ Signals:
 - ccch1mneyyy/dsh-Go
 - heydamir/unslop
 - wangzan101/Mika
+
+## 2026-11-06 — web-learn-2026-11-06T15
+
+Enhance Local Music Explorer
+
+Improve the user experience of local-music by integrating faster UI and runtime performance, ensuring data privacy, and expanding venue information.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- sshole
+- Claude Code sends your email address to websites
+- MS Paint Remote Code Execution Vulnerability
+- Blender's UI and Runtime: Much Faster Than GPUI
+- Britain to make salary disclosure in job ads mandatory
