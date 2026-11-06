@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-06T09:05:26.650Z",
+  "updatedAt": "2026-11-06T12:10:14.900Z",
   "app": "Local Music Explorer",
   "headline": "Enhance Local Music Explorer",
-  "summary": "Improve the user experience of Local Music Explorer by integrating real-time event updates and personalized recommendations based on user preferences, enhancing venue details with high-quality images and videos, and adding a feature to filter events by genre or artist popularity.",
+  "summary": "Improve the user experience of Local Music Explorer by integrating real-time event updates and personalized recommendations based on location and user preferences. Optimize venue information display to include detailed descriptions, photos, and reviews.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 19902
+      "score": 19996
     },
     {
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 16224
+      "score": 16606
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 12209
+      "score": 12462
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 10198
+      "score": 10355
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7275
+      "score": 7307
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 7156
+      "score": 7174
     }
   ]
 }
