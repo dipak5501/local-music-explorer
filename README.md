@@ -31,9 +31,9 @@ See RESEARCH.md (representative public scan).
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance Local Music Explorer with AI and User Engagement
+**Latest:** Enhance Local Music Explorer
 
-Integrate public trend signals to improve user experience by adding interactive features, personalized recommendations, and real-time event updates. This will make the app more engaging and useful for music enthusiasts in their local area.
+Integrate real-time event updates and user-generated content to provide a more engaging experience, and leverage AI-driven recommendations for personalized music venue suggestions.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
