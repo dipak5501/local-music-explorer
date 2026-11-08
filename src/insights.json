@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-08T13:29:25.885Z",
+  "updatedAt": "2026-11-08T16:34:39.810Z",
   "app": "Local Music Explorer",
   "headline": "Enhance Local Music Explorer with AI-Powered Features",
-  "summary": "Integrate AI-driven recommendations and real-time event updates to provide users with a more personalized and dynamic experience of local music venues, concerts, and events. Utilize storytelling techniques to highlight unique aspects of each venue or artist.",
+  "summary": "Integrate AI-driven recommendations and real-time event updates to provide users with a more personalized and dynamic music exploration experience. Leverage storytelling techniques to create engaging content around local venues and events.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 21855
+      "score": 22191
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 21060
+      "score": 21125
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 11660
+      "score": 11773
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7689
-    },
-    {
-      "source": "github_search",
-      "title": "anhao/ai-pose-gallery-zh",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 6409
+      "score": 7715
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 6355
+      "score": 6518
+    },
+    {
+      "source": "github_search",
+      "title": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "score": 6426
     }
   ]
 }
