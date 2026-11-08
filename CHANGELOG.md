@@ -2195,3 +2195,21 @@ Signals:
 - heydamir/unslop
 - wangzan101/Mika
 - anhao/ai-pose-gallery-zh
+
+## 2026-11-08 — web-learn-2026-11-08T13
+
+Enhance Local Music Explorer with AI-Powered Features
+
+Integrate AI-driven recommendations and real-time event updates to provide users with a more personalized and dynamic experience of local music venues, concerts, and events. Utilize storytelling techniques to highlight unique aspects of each venue or artist.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- heydamir/unslop
+- wangzan101/Mika
+- anhao/ai-pose-gallery-zh
