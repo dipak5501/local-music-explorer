@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Music Explorer with AI
 
-Integrate storytelling and AI technologies to provide users with a more engaging and personalized experience, allowing them to explore local music venues, concerts, and events through dynamic content and recommendations.
+Integrate storytelling and AI capabilities to provide users with a more engaging and personalized experience, allowing them to explore local music venues and events through interactive narratives. Leverage deep learning for better venue recommendations based on user preferences.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

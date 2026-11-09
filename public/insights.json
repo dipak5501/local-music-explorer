@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-09T11:06:03.863Z",
+  "updatedAt": "2026-11-09T14:11:32.428Z",
   "app": "Local Music Explorer",
   "headline": "Enhance Local Music Explorer with AI",
-  "summary": "Integrate storytelling and AI technologies to provide users with a more engaging and personalized experience, allowing them to explore local music venues, concerts, and events through dynamic content and recommendations.",
+  "summary": "Integrate storytelling and AI capabilities to provide users with a more engaging and personalized experience, allowing them to explore local music venues and events through interactive narratives. Leverage deep learning for better venue recommendations based on user preferences.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 23633
+      "score": 23891
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 21554
+      "score": 21626
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 12336
+      "score": 12451
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7843
+      "score": 7868
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 7152
+      "score": 7252
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 6511
+      "score": 6518
     }
   ]
 }
