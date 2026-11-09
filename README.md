@@ -31,9 +31,9 @@ See RESEARCH.md (representative public scan).
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance Local Music Explorer with AI and User Engagement
+**Latest:** Enhance Local Music Explorer
 
-By integrating AI-driven recommendations and interactive storytelling features, Local Music Explorer can offer personalized music venue suggestions and engaging content to users. This will enhance user experience and engagement.
+Integrate AI-driven recommendations to personalize music venue and event suggestions. Implement real-time data updates for concert schedules and ticket availability. Add interactive maps with user reviews and ratings.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
