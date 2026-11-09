@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-09T04:55:24.131Z",
-  "featureId": "web-learn-2026-11-09T04",
+  "at": "2026-11-09T08:00:51.722Z",
+  "featureId": "web-learn-2026-11-09T08",
   "slug": "local-music",
   "idea": {
-    "headline": "Enhance Local Music Explorer with AI",
-    "summary": "Integrate AI-driven recommendations and real-time event updates to provide users with a more personalized and dynamic music exploration experience. Leverage storytelling techniques to engage users emotionally, fostering deeper connections with local venues and artists.",
+    "headline": "Enhance Local Music Explorer",
+    "summary": "Integrate AI-driven storytelling to provide immersive venue histories, and use advanced image processing for event posters. Implement real-time concert updates and user-generated content sharing.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 23085
+      "score": 23369
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 21333
+      "score": 21452
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 12111
+      "score": 12222
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7785
+      "score": 7816
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 6990
+      "score": 7071
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 6474
+      "score": 6490
     },
     {
       "source": "github_search",
       "title": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
-      "score": 6132
+      "score": 6170
     },
     {
       "source": "github_search",
       "title": "valentderah/totk-pc-recomp",
       "url": "https://github.com/valentderah/totk-pc-recomp",
-      "score": 5994
+      "score": 6027
     },
     {
       "source": "github_search",
       "title": "Eglantine-Community/Eglantine",
       "url": "https://github.com/Eglantine-Community/Eglantine",
-      "score": 5474
+      "score": 5491
     },
     {
       "source": "github_search",
       "title": "JuneYaooo/rea-video",
       "url": "https://github.com/JuneYaooo/rea-video",
-      "score": 4715
+      "score": 4889
     },
     {
       "source": "github_search",
       "title": "BryceYuuu/RUN",
       "url": "https://github.com/BryceYuuu/RUN",
-      "score": 4271
+      "score": 4289
     },
     {
       "source": "github_search",
-      "title": "KKKKhazix/agent-autoloop",
-      "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "score": 4158
+      "title": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub",
+      "score": 4225
     }
   ]
 }
