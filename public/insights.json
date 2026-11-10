@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-10T14:55:16.437Z",
+  "updatedAt": "2026-11-10T18:00:43.268Z",
   "app": "Local Music Explorer",
   "headline": "Enhance Local Music Explorer with Trend Signals",
-  "summary": "By integrating public trend signals, the Local Music Explorer can provide more personalized and engaging experiences for users, helping them discover local music venues, concerts, and events based on current interests and preferences.",
+  "summary": "By integrating public trend signals, the Local Music Explorer can offer more personalized and engaging experiences for users, helping them discover local music venues, concerts, and events based on real-time data and user preferences.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 25646
+      "score": 25893
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22092
+      "score": 22134
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 13379
-    },
-    {
-      "source": "github_search",
-      "title": "wangzan101/Mika",
-      "url": "https://github.com/wangzan101/Mika",
-      "score": 8018
+      "score": 13534
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 7969
+      "score": 8057
+    },
+    {
+      "source": "github_search",
+      "title": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "score": 8049
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 7897
+      "score": 8030
     }
   ]
 }
