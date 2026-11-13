@@ -2897,3 +2897,21 @@ Signals:
 - NotRexed/Hookshot
 - zortos293/Lichii
 - Minireel/HGhub
+
+## 2026-11-13 — web-learn-2026-11-13T14
+
+Enhance Local Music Explorer with AI
+
+Integrate AI-driven recommendations and real-time event updates to provide users with a more personalized and dynamic music exploration experience. Leverage location-based services for better venue and event discovery.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- zortos293/Lichii
+- Minireel/HGhub
+- janestreet/agent_skills
