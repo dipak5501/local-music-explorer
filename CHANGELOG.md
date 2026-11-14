@@ -2987,3 +2987,21 @@ Signals:
 - huamidev/GestaltX
 - KKKKhazix/agent-autoloop
 - expo/exact
+
+## 2026-11-14 — web-learn-2026-11-14T05
+
+Enhance Local Music Explorer with Trend Signals
+
+Integrate real-time event updates and user reviews from social media to keep the app current. Implement AI-driven recommendations based on user preferences and local trends. Add a feature for virtual tours of venues to give users a better understanding before attending events.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Minireel/HGhub
+- janestreet/agent_skills
+- huamidev/GestaltX
+- KKKKhazix/agent-autoloop
+- expo/exact
