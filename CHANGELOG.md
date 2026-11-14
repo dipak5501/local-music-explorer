@@ -3041,3 +3041,21 @@ Signals:
 - huamidev/GestaltX
 - KKKKhazix/agent-autoloop
 - expo/exact
+
+## 2026-11-14 — web-learn-2026-11-14T14
+
+Enhance Local Music Explorer with Public Trend Signals
+
+Integrate real-time event data and user feedback to improve the discovery experience, leverage AI for personalized recommendations, and optimize venue information updates.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Minireel/HGhub
+- janestreet/agent_skills
+- huamidev/GestaltX
+- KKKKhazix/agent-autoloop
+- expo/exact
