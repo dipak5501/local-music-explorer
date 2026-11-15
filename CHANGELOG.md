@@ -3167,3 +3167,21 @@ Signals:
 - huamidev/GestaltX
 - KKKKhazix/agent-autoloop
 - libracoder/kiri
+
+## 2026-11-15 — web-learn-2026-11-15T12
+
+Enhance Local Music Explorer with Public Trend Signals
+
+Integrate real-time concert and event data from local venues, incorporate user-generated content through social media APIs, and implement a personalized recommendation system based on user preferences.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Minireel/HGhub
+- janestreet/agent_skills
+- huamidev/GestaltX
+- KKKKhazix/agent-autoloop
+- libracoder/kiri
