@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Music Explorer
 
-Integrate real-time event updates and user reviews to improve the discovery experience. Implement a chat feature for venue recommendations and direct communication with organizers. Add battery monitoring alerts to ensure users don't miss any events due to device issues.
+Integrate real-time event updates and user reviews to provide a more dynamic and engaging experience. Implement voice search capabilities for hands-free navigation of local music venues. Add a feature to suggest nearby events based on user preferences and past attendance.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
