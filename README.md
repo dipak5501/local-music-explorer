@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Music Explorer
 
-Improve the user experience of local-music by integrating real-time event updates and venue information, incorporating AI chat support for personalized recommendations, and adding a feature to track battery levels of nearby devices.
+Improve the user experience of local-music by integrating real-time event updates and venue information, incorporating AI-driven recommendations based on user preferences, and adding a feature to track music events using wireless device battery monitoring.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
