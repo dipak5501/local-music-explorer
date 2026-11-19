@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-19T16:03:25.879Z",
-  "featureId": "web-learn-2026-11-19T16",
+  "at": "2026-11-19T19:09:08.028Z",
+  "featureId": "web-learn-2026-11-19T19",
   "slug": "local-music",
   "idea": {
     "headline": "Enhance Local Music Explorer",
-    "summary": "Integrate real-time event updates and user reviews to improve the discovery experience, incorporate location-based notifications for upcoming concerts, and add a feature to filter events by genre or artist preference.",
+    "summary": "Improve the user experience of local-music by integrating real-time event updates and venue information, incorporating AI chat support for personalized recommendations, and adding a feature to track battery levels of nearby devices.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "huami1314/GestaltX",
       "url": "https://github.com/huami1314/GestaltX",
-      "score": 8510
+      "score": 8524
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5003
+      "score": 5016
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 4652
+      "score": 4908
     },
     {
       "source": "github_search",
       "title": "krisgfx9/Wireless-Device-Battery-Monitor",
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-      "score": 4455
+      "score": 4548
     },
     {
       "source": "github_search",
       "title": "tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/NX2navi",
-      "score": 4326
-    },
-    {
-      "source": "github_search",
-      "title": "jhaizhou-ops/S2Arm",
-      "url": "https://github.com/jhaizhou-ops/S2Arm",
-      "score": 3663
+      "score": 4328
     },
     {
       "source": "github_search",
       "title": "ersinkoc/phonebox",
       "url": "https://github.com/ersinkoc/phonebox",
-      "score": 3657
+      "score": 3758
+    },
+    {
+      "source": "github_search",
+      "title": "jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/S2Arm",
+      "score": 3673
     },
     {
       "source": "github_search",
       "title": "JenkinWoo/sheeridVerify",
       "url": "https://github.com/JenkinWoo/sheeridVerify",
-      "score": 3594
+      "score": 3668
     },
     {
       "source": "github_search",
       "title": "apex-compute/ANR",
       "url": "https://github.com/apex-compute/ANR",
-      "score": 2689
+      "score": 2693
     },
     {
       "source": "github_search",
       "title": "FrigadeHQ/yogurt",
       "url": "https://github.com/FrigadeHQ/yogurt",
-      "score": 2556
+      "score": 2584
     },
     {
       "source": "github_search",
       "title": "Kianuni/Erosion-CN",
       "url": "https://github.com/Kianuni/Erosion-CN",
-      "score": 2533
+      "score": 2545
     },
     {
       "source": "github_search",
       "title": "DIYgod/pinky",
       "url": "https://github.com/DIYgod/pinky",
-      "score": 2524
+      "score": 2528
     }
   ]
 }
