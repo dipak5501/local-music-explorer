@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Music Explorer
 
-Integrate real-time event updates and user reviews to provide a more dynamic and engaging experience. Implement location-based recommendations based on past user preferences and current trends. Add push notifications for upcoming events in nearby venues.
+Integrate real-time event updates and user reviews to improve the discovery experience, incorporate location-based notifications for upcoming concerts, and implement a personalized music recommendation system based on user preferences.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
