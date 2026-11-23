@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Music Explorer
 
-Integrate real-time event updates and user-generated content to provide a more dynamic experience, incorporate interactive maps for venue exploration, and implement AI-driven recommendations based on user preferences.
+Integrate real-time event updates and user reviews to provide a more engaging experience. Implement AI-driven recommendations based on user preferences for personalized music venue suggestions. Add a feature to book tickets directly from the app.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

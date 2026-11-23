@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-23T19:31:44.376Z",
+  "updatedAt": "2026-11-23T22:38:13.959Z",
   "app": "Local Music Explorer",
   "headline": "Enhance Local Music Explorer",
-  "summary": "Integrate real-time event updates and user-generated content to provide a more dynamic experience, incorporate interactive maps for venue exploration, and implement AI-driven recommendations based on user preferences.",
+  "summary": "Integrate real-time event updates and user reviews to provide a more engaging experience. Implement AI-driven recommendations based on user preferences for personalized music venue suggestions. Add a feature to book tickets directly from the app.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -11,39 +11,39 @@
   "signals": [
     {
       "source": "github_search",
-      "title": "ItsNotRexed/Leonida",
-      "url": "https://github.com/ItsNotRexed/Leonida",
-      "score": 28528
+      "title": "ProjectLeonida/Leonida",
+      "url": "https://github.com/ProjectLeonida/Leonida",
+      "score": 33018
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 8627
+      "score": 8680
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5342
+      "score": 5343
     },
     {
       "source": "github_search",
       "title": "simplexai-labs/linger",
       "url": "https://github.com/simplexai-labs/linger",
-      "score": 4150
+      "score": 4178
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 3080
+      "score": 3134
     },
     {
       "source": "github_search",
-      "title": "FrigadeHQ/yogurt",
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "score": 3063
+      "title": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "score": 3076
     }
   ]
 }
