@@ -4355,3 +4355,21 @@ Signals:
 - deepseek-ai/chat-demo
 - simplexai-labs/linger
 - Hut-hzf/ung220z-tool
+
+## 2026-11-24 — web-learn-2026-11-24T01
+
+Enhance Local Music Explorer with Public Trend Signals
+
+Integrate real-time event data and user feedback to improve the discovery of local music venues, concerts, and events. Implement AI chat support for personalized recommendations and customer service.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- erkamyaman/rust-anything
+- deepseek-ai/chat-demo
+- Hut-hzf/ung220z-tool
+- EL4CTEO/fast-anything
+- ivall/xcl

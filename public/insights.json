@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-23T22:38:13.959Z",
+  "updatedAt": "2026-11-24T01:43:55.913Z",
   "app": "Local Music Explorer",
-  "headline": "Enhance Local Music Explorer",
-  "summary": "Integrate real-time event updates and user reviews to provide a more engaging experience. Implement AI-driven recommendations based on user preferences for personalized music venue suggestions. Add a feature to book tickets directly from the app.",
+  "headline": "Enhance Local Music Explorer with Public Trend Signals",
+  "summary": "Integrate real-time event data and user feedback to improve the discovery of local music venues, concerts, and events. Implement AI chat support for personalized recommendations and customer service.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -11,39 +11,39 @@
   "signals": [
     {
       "source": "github_search",
-      "title": "ProjectLeonida/Leonida",
-      "url": "https://github.com/ProjectLeonida/Leonida",
-      "score": 33018
-    },
-    {
-      "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 8680
+      "score": 8750
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5343
-    },
-    {
-      "source": "github_search",
-      "title": "simplexai-labs/linger",
-      "url": "https://github.com/simplexai-labs/linger",
-      "score": 4178
+      "score": 5348
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 3134
+      "score": 3390
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 3076
+      "score": 3147
+    },
+    {
+      "source": "github_search",
+      "title": "ivall/xcl",
+      "url": "https://github.com/ivall/xcl",
+      "score": 3049
+    },
+    {
+      "source": "github_search",
+      "title": "Immortal-Protocols/lastbook",
+      "url": "https://github.com/Immortal-Protocols/lastbook",
+      "score": 3008
     }
   ]
 }
