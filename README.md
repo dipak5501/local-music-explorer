@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Music Explorer
 
-By integrating real-time event data and user reviews, Local Music Explorer can offer a more dynamic and engaging experience for music enthusiasts. Adding a feature to suggest venues based on past attendance patterns will also enhance user satisfaction.
+Integrate real-time event updates and user reviews to improve the discovery experience, and leverage AI for personalized recommendations based on user preferences.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
