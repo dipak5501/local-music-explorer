@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Music Explorer
 
-Integrate real-time event updates and user-generated content to provide a more dynamic and engaging experience. Implement a recommendation engine based on user preferences for personalized suggestions. Optimize the app's performance by reducing loading times and improving navigation.
+Improve the user experience of Local Music Explorer by integrating real-time event updates, adding a venue rating system, and implementing a personalized music recommendation engine based on user preferences.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
