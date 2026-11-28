@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Music Explorer
 
-By integrating real-time event data and user reviews, the Local Music Explorer can provide a more comprehensive and engaging experience for music enthusiasts. Adding a feature to filter events by genre will allow users to discover concerts based on their preferences.
+Improve the user experience of Local Music Explorer by integrating real-time event updates, adding a feature to filter venues based on genre preferences, and implementing a recommendation system using local user data.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
