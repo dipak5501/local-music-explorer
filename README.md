@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Music Explorer
 
-By integrating real-time event data and user reviews, the Local Music Explorer can provide a more dynamic and engaging experience for music enthusiasts. Adding interactive maps will also help users easily locate nearby venues.
+Improve the Local Music Explorer by integrating real-time event updates and user reviews, optimizing venue listings for mobile devices, and adding a feature to filter events based on artist popularity.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
